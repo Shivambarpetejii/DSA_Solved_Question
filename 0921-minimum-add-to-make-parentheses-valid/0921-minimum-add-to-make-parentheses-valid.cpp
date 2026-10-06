@@ -21,15 +21,10 @@ public:
             }
         }
 
-        if(st.empty())
-        {
-            return count;
-            
-        }else{
+       
             return count + st.size();
 
-        }
-
+        
 
       
 
