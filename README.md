@@ -12,6 +12,7 @@
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/Shivambarpetejii/DSA_Solved_Question/tree/master/0172-factorial-trailing-zeroes) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Shivambarpetejii/DSA_Solved_Question/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## String
 |  |
